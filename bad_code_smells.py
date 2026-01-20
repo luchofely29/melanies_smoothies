@@ -10,6 +10,16 @@ def calculate_sum(a, b):
     total = a + b
     return total
 
+def suma(a, b):
+    # This function sums two numbers
+    total = a + b
+    return total
+
+def x(a, b):
+    # This function sums two numbers
+    total = a * b
+    return total
+
 def calculate_total(a, b):
     # This function ALSO sums two numbers (duplicated logic)
     tot = a + b
